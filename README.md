@@ -1,6 +1,6 @@
-# **Anna Bella | Modelo - Website**
+# **TecBlog | Blog de Tecnologia**
 
- TecBlog | Blog de Tecnologia.
+ Um template de blog de tecnologia usando HTML e CSS.
 
 ---
 
